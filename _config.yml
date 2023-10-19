@@ -3,9 +3,10 @@ email: apps@jetlagguy.com.au
 description: >- 
   An app to help you manage jet lag for peak performance.
 twitter_username: username
-github_username: username
+github_username: jetlagguy
 minimal_mistakes_skin: default
 search: true
+github: [metadata]
 
 # Build settings
 markdown: kramdown
