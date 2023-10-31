@@ -41,23 +41,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "The Jet Lag Guy"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An app to help you manage jet lag for peak performance."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://jetlagguy.app"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+author: Steve Jasper
 
 footer:
   links:
@@ -78,6 +62,7 @@ defaults:
       type: posts
     values:
       layout: single
+      author: Steve Jasper
       author_profile: true
       read_time: true
       comments: true
@@ -89,6 +74,7 @@ defaults:
       type: pages
     values:
       layout: single
+      author: Steve Jasper
       author_profile: true
   # _privacy
   - scope:
@@ -96,6 +82,7 @@ defaults:
       type: privacy
     values:
       layout: single
+      author: Steve Jasper
       author_profile: true
 
 category_archive:

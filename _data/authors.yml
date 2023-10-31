@@ -1,23 +1,24 @@
 Steve Jasper:
   name: Dr Steve Jasper
   bio: The Jet Lag Guy
+  avatar : "/assets/images/bio-photo.jpg"
   location: Australia
-  # links:
-  #   - label: Email
-  #     icon: "fas fa-envelope"
-  #     url: "mailto:peter@peterscully.name"
-  #   - label: LinkedIn
-  #     icon: "fab fa-linkedin"
-  #     url: "https://linkedin.com/in/pgscully"
-  #   - label: GitLab
-  #     icon: "fab fa-gitlab"
-  #     url: "https://gitlab.com/pgscully"
-  #   - label: GitHub
-  #     icon: "fab fa-github"
-  #     url: "https://github.com/PGScully"
-  #   - label: Mastodon
-  #     icon: "fab fa-mastodon"
-  #     url: "https://aus.social/@pgs"
-  #   - label: MeWe
-  #     url: "https://mewe.com/i/peterscully"
-
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jetlagguy.app"
+    - label: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/pgscully"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
+    # - label: Email
+    #   icon: "fas fa-envelope"
+    #   url: "mailto:peter@peterscully.name"
