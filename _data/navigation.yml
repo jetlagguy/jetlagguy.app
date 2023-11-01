@@ -3,6 +3,7 @@ main:
     url: /privacy/
   - title: "App Updates"
     url: /posts/
+    # url: /updates/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
