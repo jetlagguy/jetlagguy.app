@@ -22,3 +22,15 @@ Steve Jasper:
     # - label: Email
     #   icon: "fas fa-envelope"
     #   url: "mailto:peter@peterscully.name"
+
+Peter Scully:
+  name: Peter Scully
+  bio: I write code, and I like it
+  location: Australia
+  links:
+    - label: Email
+      icon: "fas fa-envelope"
+      url: "mailto:peter@peterscully.name"
+    - label: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/pgscully"
