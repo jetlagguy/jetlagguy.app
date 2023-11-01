@@ -48,6 +48,10 @@ plugins:
 
 author: Steve Jasper
 
+# breadcrumbs: true
+# breadcrumb_home_label : "Home"
+# breadcrumb_separator  : "/"
+
 collections:
   privacy:
     output: true
