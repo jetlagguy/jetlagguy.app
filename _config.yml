@@ -25,6 +25,7 @@ exclude:
 
 include:
   - _pages
+  - _privacy
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -48,6 +49,11 @@ plugins:
   - jekyll-include-cache
 
 author: Steve Jasper
+
+# collections:
+#   privacy:
+#     output: true
+#     permalink: /:collection/:path/
 
 footer:
   links:
@@ -84,8 +90,8 @@ defaults:
       author_profile: true
   # _privacy
   - scope:
-      path: ""
-      type: privacy
+      path: "_privacy"
+      type: posts
     values:
       layout: single
       author: Steve Jasper

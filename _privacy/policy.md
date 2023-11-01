@@ -1,5 +1,7 @@
 ---
 title: The Jet Lag Guy App Privacy Policy
+categories:
+  - Privacy
 ---
 
 [The Jet Lag Guy App](https://play.google.com/store/apps/details?id=au.com.jetlagguy.jetlag_guyde) uses the following libraries and services that may collect personal information:
