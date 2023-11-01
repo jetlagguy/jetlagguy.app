@@ -1,4 +1,4 @@
-title: The Jet Lag Guy App
+title: The Jet Lag Guy Apps
 email: apps@jetlagguy.com.au
 description: >-
   An app to help you manage jet lag for peak performance.
@@ -48,10 +48,10 @@ plugins:
 
 author: Steve Jasper
 
-# collections:
-#   privacy:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  privacy:
+    output: true
+    permalink: /:collection/:path/
 
 footer:
   links:
@@ -88,8 +88,8 @@ defaults:
       author_profile: true
   # _privacy
   - scope:
-      path: "_privacy"
-      type: posts
+      path: ""
+      type: privacy
     values:
       layout: single
       author: Steve Jasper

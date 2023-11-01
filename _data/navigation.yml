@@ -1,8 +1,8 @@
 main:
-  - title: "Privacy Policy"
+  - title: "Privacy Policies"
     url: /privacy/
   - title: "App Updates"
-    url: /blog/
+    url: /posts/
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"
