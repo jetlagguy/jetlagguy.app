@@ -21,10 +21,10 @@ updates:
     btn_label: App Updates
 privacy:
   - image_path: "images/splash/privacy.jpg"
-    excerpt: Privacy policies for my apps.
+    excerpt: Privacy policies.
     url: /privacy/
     btn_class: "btn--primary"
-    btn_label: Privacy Policy
+    btn_label: Privacy
 ---
 
 <!-- TODO: Paragraph or two about the app, and links to it in the app stores -->
