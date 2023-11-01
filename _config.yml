@@ -2,9 +2,10 @@ title: The Jet Lag Guy App
 email: apps@jetlagguy.com.au
 description: >-
   An app to help you manage jet lag for peak performance.
+url: "https://jetlagguy.app"
 twitter_username: username
 github_username: jetlagguy
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 github: [metadata]
 
@@ -15,7 +16,12 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Melbourne
+
+exclude:
+  - README.md
+  - buildcache
+  - .vscode
 
 include:
   - _pages
