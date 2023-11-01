@@ -16,7 +16,7 @@ header:
 updates:
   - image_path: "images/splash/pages.jpg"
     excerpt: "App Updates."
-    url: /updates/
+    url: /posts/
     btn_class: "btn--primary"
     btn_label: App Updates
 privacy:
