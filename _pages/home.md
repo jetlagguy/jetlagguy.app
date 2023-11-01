@@ -9,9 +9,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.30"
   overlay_image: /images/header/IMG_20161106_050634.jpg
-  actions:
-    - label: "App Updates"
-      url: "/blog/"
+  # actions:
+  #   - label: "App Updates"
+  #     url: "/posts/"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 updates:
   - image_path: "images/splash/pages.jpg"
