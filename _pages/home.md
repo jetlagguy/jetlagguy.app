@@ -15,13 +15,13 @@ header:
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 updates:
   - image_path: "assets/images/app-update.jpg"
-    excerpt: App Updates.<!--excerptEnd-->
+    excerpt: App Updates<!--excerptEnd-->
     url: /posts/
     btn_class: "btn--primary"
     btn_label: App Updates
 privacy:
   - image_path: "assets/images/privacy-policy.jpg"
-    excerpt: Privacy policies.<!--excerptEnd-->
+    excerpt: Privacy policies<!--excerptEnd-->
     url: /privacy/
     btn_class: "btn--primary"
     btn_label: Privacy
