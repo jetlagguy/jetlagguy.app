@@ -57,6 +57,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+posts:
+    excerpt_separator: <!--excerptEnd-->
+
 footer:
   links:
     # - label: "Twitter"
