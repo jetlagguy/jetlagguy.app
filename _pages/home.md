@@ -4,7 +4,7 @@ author: Steve Jasper
 author_profile: true
 permalink: /
 title: The Jet Lag Guy App
-excerpt: Maximize Your Performance When Travelling For Business<!--excerptEnd-->
+excerpt: Maximize Your Performance When Travelling For Business
 header:
   overlay_color: "#000"
   overlay_filter: "0.30"
@@ -15,13 +15,13 @@ header:
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 updates:
   - image_path: "assets/images/app-update.jpg"
-    excerpt: App Updates<!--excerptEnd-->
+    excerpt: App Updates
     url: /posts/
     btn_class: "btn--primary"
     btn_label: App Updates
 privacy:
   - image_path: "assets/images/privacy-policy.jpg"
-    excerpt: Privacy policies<!--excerptEnd-->
+    excerpt: Privacy policies
     url: /privacy/
     btn_class: "btn--primary"
     btn_label: Privacy
