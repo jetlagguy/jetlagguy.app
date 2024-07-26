@@ -1,5 +1,6 @@
 ---
-title: The End Jet Lag App Privacy Policy
+title: End Jet Lag Privacy Policy
+linkTitle: Privacy Policy
 tags:
   - End Jet Lag
   - Privacy
