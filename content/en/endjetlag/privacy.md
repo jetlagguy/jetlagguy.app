@@ -3,6 +3,7 @@ title: The End Jet Lag App Privacy Policy
 categories:
   - Privacy
 weight: 1
+feature_image: edwin-petrus-rICa0fLe88E-unsplash.jpg
 ---
 
 The End Jet Lag app uses the following libraries and services that may collect personal information: <!--more-->
