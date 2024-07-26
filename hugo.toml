@@ -1,0 +1,79 @@
+title = "The Jet Lag Guy's Apps"
+baseURL = 'https://jetlagguy.app/'
+languageCode = 'en-au'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+DefaultContentLanguage = "en"
+contentDir = "content/en"
+SectionPagesMenu = "main"
+Paginate = 9
+# googleAnalytics = ""
+enableRobotsTXT = false
+enableEmoji = true
+cleanDestinationDir = true
+copyright = "Jet Lag Apps Pty Ltd"
+enableGitInfo = true
+
+[languages]
+[languages.en]
+title = "The Jet Lag Guy's Apps"
+weight = 1
+contentDir = "content/en"
+
+[permalinks]
+[permalinks.page]
+'blog' = '/:year/:month/:slug/'
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+author = "Dr Steve Jasper"
+favicon = ""
+site_logo = ""
+date_format = ":date_full"
+description = "The Jet Lag Guy's Apps"
+custom_css = ["tjlg.css"]
+omit_header_text = true
+text_color = "charcoal"                # "charcoal", or "dark-gray"
+recent_posts_number = 3
+background_color_class = "bg-maroon"
+body_classes = "interstate bg-white"
+post_content_classes = "interstate"
+
+# [[params.ananke_socials]]
+# name = "e-mail"
+# url = "mailto:drsteve@jetlagguy.com.au"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jasperstephen/"
+follow = false
+
+# [[params.ananke_socials]]
+# name = "youtube"
+# url = "https://www.youtube.com/@TheJetLagGuy"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/steve.jasper.965/"
+follow = false
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/DrSteveJasper/"
+follow = false
+
+# [[params.ananke_socials]]
+# name = "X"
+# url = "https://x.com/DrSteveJasper/"
+
+# tiktok
+
+# instagram?
+
+[[params.ananke_socials]]
+name = "rss"
+url = "/index.xml"

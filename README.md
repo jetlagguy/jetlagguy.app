@@ -1,1 +1,3 @@
-# The Jet Lag Guy
+# The Jet Lag Guy's Apps
+
+See RUNME.runme for help building this site.
