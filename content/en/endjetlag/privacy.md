@@ -1,6 +1,7 @@
 ---
 title: The End Jet Lag App Privacy Policy
-categories:
+tags:
+  - End Jet Lag
   - Privacy
 weight: 1
 feature_image: edwin-petrus-rICa0fLe88E-unsplash.jpg

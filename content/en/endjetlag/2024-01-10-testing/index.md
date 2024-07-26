@@ -1,8 +1,8 @@
 ---
 title: End Jet Lag Open for Testing
 date: 2024-01-10
-categories:
-  - testing
+tags:
+  - End Jet Lag
 ---
 
 The End Jet Lag app is now open for testing.

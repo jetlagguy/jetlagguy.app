@@ -1,9 +1,8 @@
 ---
 title: End Jet Lag Version 0.1.0
 date: 2024-01-10
-categories:
-  - releases
-  - testing
+tags:
+  - End Jet Lag
 ---
 
 Version 0.1.0 of End Jet Lag is now available to testers for usability and functionality testing.
