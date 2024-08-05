@@ -10,7 +10,17 @@
     color: #333132
 }
 
-.interstate {
-    font-family: interstate,
+.overpass {
+    font-family: overpass,
+        sans-serif;
+}
+
+.overpass-mono {
+    font-family: overpass-mono,
+        sans-serif;
+}
+
+.athelas {
+    font-family: overpass,
         sans-serif;
 }

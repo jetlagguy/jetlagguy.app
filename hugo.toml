@@ -29,6 +29,15 @@ changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
+[fonts]
+use_google_fonts = true
+google_fonts_url = "https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap"
+use_self_hosted_fonts = false
+logo = "Overpass"
+heading = "Overpass"
+base = "Overpass"
+monospace = "Overpass Mono"
+
 [params]
 author = "Dr Steve Jasper"
 favicon = ""
@@ -37,11 +46,11 @@ date_format = ":date_full"
 description = "The Jet Lag Guy's Apps"
 custom_css = ["tjlg.css"]
 omit_header_text = true
-text_color = "charcoal"                # "charcoal", or "dark-gray"
+text_color = "charcoal"                 # "charcoal", or "dark-gray"
 recent_posts_number = 3
 background_color_class = "bg-maroon"
-body_classes = "interstate bg-white"
-post_content_classes = "interstate"
+body_classes = "overpass bg-near-white"
+post_content_classes = "overpass"
 
 # [[params.ananke_socials]]
 # name = "e-mail"
