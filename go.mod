@@ -2,4 +2,4 @@ module github.com/jetlagguy/jetlagguy.app
 
 go 1.22.5
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240503174335-33fbda0e9d3e // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240928043059-33178c0d498e // indirect
