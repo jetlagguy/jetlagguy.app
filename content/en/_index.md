@@ -1,6 +1,6 @@
 ---
 title: "**End Jet Lag**"
-featured_image: bao-menglong--FhoJYnw-cg-unsplash.jpg
+featured_image: endjetlag/bao-menglong--FhoJYnw-cg-unsplash.jpg
 title: End Jet Lag
 ---
 
