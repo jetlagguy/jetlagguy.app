@@ -21,6 +21,7 @@
 }
 
 .athelas {
-    font-family: overpass,
-        sans-serif;
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
